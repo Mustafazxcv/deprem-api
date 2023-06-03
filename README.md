@@ -1,5 +1,5 @@
 # deprem-api
-İsteğe göre degiştirilebilir, ayarlanabilir ve Front end çalışılarak APP haline getirilebilir. Veriler Boğaziçin Üniversitesi Kandilli Rasathanesin den canlı olarak çekilmektedir. 
+İsteğe göre degiştirilebilir, ayarlanabilir ve Front end çalışılarak APP haline getirilebilir. Veriler Boğaziçi Üniversitesi Kandilli Rasathanesin den canlı olarak çekilmektedir. 
 
 # Kullanım
 
