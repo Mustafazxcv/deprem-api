@@ -1,0 +1,2 @@
+
+Bu uygulama, Requests, Folium ve Python kütüphanelerini kullanır.
