@@ -13,7 +13,7 @@ def get_earthquake_data():
 def parse_earthquake_data(data):
     lines = data.split('\n')
     earthquake_data = []
-    for line in lines[6:-2]:  # Veriler, 6. satırdan başlar ve son 2 satır atılır.
+    for line in lines[6:-2]:  
         parts = line.strip().split()
         if len(parts) == 13:  
             date = parts[0]
