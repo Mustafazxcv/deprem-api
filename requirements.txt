@@ -1,2 +1,2 @@
 
-Bu uygulama, Requests, Flas, Folium ve Python modül & kütüphanelerini kullanır.
+Bu uygulama, Requests, Flask, Folium ve Python modül & kütüphanelerini kullanır.
